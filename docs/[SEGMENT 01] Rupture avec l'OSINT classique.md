@@ -1,7 +1,5 @@
 [SEGMENT 01] Rupture avec l'OSINT classique
 
-[SEGMENT 01] — Rupture avec l'OSINT classique
-
 L'OSINT cartographie l'inconnu par accumulation de traces. Métadonnées EXIF, patterns 
 temporels, corrélations réseau, empreintes comportementales publiques. Suffisant pour 
 des cibles à faible contexte défensif : profils grand public, organisations peu 
