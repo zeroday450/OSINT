@@ -4,8 +4,7 @@ L'OSINT classique modélise des faits. Il attribue une valeur à chaque
 élément observable pour établir des relations entre eux. Ce qu'il produit 
 est une topologie du passé : une carte de ce qui s'est passé, pas de ce 
 qui doit se passer. Dès qu'une cible choisit de rompre brutalement ses 
-patterns — changer de canaux, couper des nœuds, disparaître temporairement 
-— le graphe s'effondre. Non par limitation technique, mais par conception. 
+patterns, changer de canaux, couper des nœuds, disparaître temporairement, le graphe s'effondre. Non par limitation technique, mais par conception. 
 Il repose sur la continuité des interactions, pas sur ce qui les rend 
 structurellement obligatoires.
 
@@ -15,7 +14,7 @@ durablement les comportements n'est jamais le consensus moral ou la
 bienveillance. C'est la contrainte. Non parce qu'elle est juste, mais 
 parce qu'elle est structurellement plus difficile à franchir qu'une règle 
 acceptée volontairement. Si A peut choisir de ne pas interagir avec B, 
-c'est une relation — franchissable, substituable, disparaissable. Si B 
+c'est une relation, franchissable, substituable, disparaissable. Si B 
 ne peut pas fonctionner sans A, c'est une dépendance. Ce n'est pas le 
 même objet analytique.
 
