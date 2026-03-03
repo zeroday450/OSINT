@@ -26,7 +26,7 @@ contrainte ou un seuil revient à fausser l'activité tirée du vecteur
 correspondant. Si plusieurs vecteurs produisent des activités incohérentes 
 entre elles, deux lectures sont possibles : une erreur de modélisation, 
 ou une manipulation active. Ces deux cas ne sont pas distinguables sans 
-information externe. Un vecteur manipulé est structurellement cohérent — 
+information externe. Un vecteur manipulé est structurellement cohérent,
 c'est ce qui le rend dangereux.
 
 La robustesse de cette analyse ne repose donc pas sur un vecteur isolé. 
