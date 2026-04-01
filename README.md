@@ -1,7 +1,7 @@
-L'OSINT classique accumule des traces numériques et reconstruit des topologies relationnelles. Cette approche fonctionne tant que la cible ne structure pas activement sa surface d'exposition. Dès que ce seuil est franchi, la collecte passive produit du bruit structuré sans gradient interprétatif exploitable.
+# OSINT Graph
 
-La question n'est pas ce qu'une cible publie, mais ce qui contraint ses décisions lorsque plusieurs priorités entrent en conflit sous pression temporelle ou charge cognitive élevée. Non pas ses traces, mais les conditions dans lesquelles elle modifie son comportement. Non pas une cartographie d'entités, mais une modélisation des dépendances informationnelles qui forcent certains arbitrages.
+L'OSINT classique produit une topologie du passé. Dès qu'une cible structure activement sa surface d'exposition, la collecte passive génère du bruit structuré sans gradient interprétatif. Ce dépôt ne documente pas un outil de collecte.
 
-Ce dépôt documente ce déplacement.
+Il documente le raisonnement qui opère après la collecte : modéliser ce qu'une cible ne peut pas modifier sans se dégrader plutôt que ce qu'elle expose volontairement. Contraintes cognitives incompressibles, seuils de basculement sous pression, points où la décision prise sous charge révèle une hiérarchie de priorités non-négociables.
 
-Il expose une architecture, des pivots stratégiques, des échecs, des zones volontairement non traitées. Il assume que le lecteur comprend pourquoi certaines choses ne sont pas explicitées. Il ne cherche pas à convaincre.
+BeliefPropagation.ts est l'artefact formel de cette approche. Loopy Belief Propagation, modèle Noisy-OR/AND, synergies de co-activation, damping anti-oscillation. Il matérialise la couche d'inférence, pas l'application dont il est issu.
