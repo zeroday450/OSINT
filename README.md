@@ -1,4 +1,4 @@
-# OSINT Graph
+# OSINT
 
 L'OSINT classique produit une topologie du passé. Dès qu'une cible structure activement sa surface d'exposition, la collecte passive génère du bruit structuré sans gradient interprétatif. Ce dépôt ne documente pas un outil de collecte.
 
