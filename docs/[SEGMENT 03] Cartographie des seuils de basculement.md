@@ -14,7 +14,7 @@ pas la cible. Elles cassent les couches les plus coûteuses à maintenir en
 premier. La discipline défensive cède avant la capacité opérationnelle, 
 parce qu'elle est la plus volatile. Ce sont précisément ces couches sur 
 lesquelles repose la majorité des bases de l'OSINT comportemental classique. 
-Quand elles se fissurent, ce qu'elles exposent n'est pas un artefact — 
+Quand elles se fissurent, ce qu'elles exposent n'est pas un artefact, 
 c'est une priorité réelle.
 
 Ces seuils ne s'observent pas directement. Ils s'infèrent. Si l'on sait 
