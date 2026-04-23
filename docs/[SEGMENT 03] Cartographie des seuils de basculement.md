@@ -1,4 +1,4 @@
-[SEGMENT 03] — Cartographie des seuils de basculement
+[SEGMENT 03] Cartographie des seuils de basculement
 
 Un individu reste un individu. Ses capacités sont limitées, cognitivement, 
 temporellement, physiologiquement. Maintenir simultanément cohérence 
