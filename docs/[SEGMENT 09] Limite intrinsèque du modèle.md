@@ -1,0 +1,17 @@
+[SEGMENT 09] Limite intrinsèque du modèle
+
+Toute doctrine qui ne documente pas ses propres limites est une idéologie. Ce qui précède n'est pas une idéologie, c'est un cadre analytique. À ce titre, il exige une cartographie honnête de ce qu'il ne peut structurellement pas faire.
+
+La première limite est humaine et irréductible. Le modèle de dépendances est construit par un analyste qui observe depuis une position cognitive particulière. Ses catégories de pertinence, sa hiérarchie implicite de ce qui constitue une contrainte, ses angles morts, tout cela entre dans le graphe dès les premiers nœuds, silencieusement, sans signal d'alerte. Le modèle qui en résulte peut être parfaitement cohérent en interne et partiellement faux en externe. Non par erreur de raisonnement, mais par erreur de cadrage. La cohérence interne ne distingue pas entre nécessité structurelle et projection cognitive. C'est la limite que l'outil ne résout pas, parce qu'elle précède l'outil.
+
+La deuxième limite est épistémique. Toute modélisation du monde repose sur un référentiel de connaissances, des catégories, des relations, des valeurs de base qui définissent ce qu'est une contrainte, ce qu'est une dépendance, ce qu'est un élément natif. Si une cible opère dans un espace cognitif ou culturel que ce référentiel ne couvre pas correctement, le modèle produit des croyances cohérentes dans un cadre qui ne correspond pas à celui de la cible. La propagation est juste. La base sur laquelle elle opère ne l'est pas. Ce n'est pas une erreur de calcul, c'est une erreur de monde. Elle est indétectable depuis l'intérieur du modèle parce que rien dans sa structure interne ne signale l'inadéquation du référentiel.
+
+La troisième limite est celle de la cible sans structure stable. La doctrine entière repose sur l'existence de dépendances incompressibles, ce qu'une cible ne peut modifier sans se dégrader. Une cible sans contraintes durables, sans routine cognitive, sans hiérarchie de priorités stable, ne produit pas de graphe cartographiable. Non par discipline défensive, mais par absence de structure à saisir. Le modèle ne s'effondre pas face à elle, il ne trouve simplement rien. Ce cas n'invalide pas la méthode. Il en définit le périmètre d'application.
+
+Ces trois limites ont une propriété commune : elles ne sont pas corrigibles par davantage de données, davantage de précision analytique, ou davantage de puissance de calcul. Elles sont antérieures à l'analyse elle-même. La projection précède la collecte. Le référentiel précède la propagation. L'absence de structure précède la cartographie. Ce sont des conditions d'entrée, pas des défauts de traitement.
+
+Reconnaître ces limites ne fragilise pas la doctrine. C'est précisément ce qui la rend opérationnellement honnête, et donc utilisable dans des conditions réelles, par opposition à des conditions idéales qui n'existent pas.
+
+Ce que cette approche fait mieux que toute alternative connue reste entier : modéliser ce qu'une cible ne peut pas modifier sans se dégrader, identifier les fenêtres où ses contraintes entrent en conflit, et maintenir un modèle dynamique dont la robustesse repose sur la nécessité structurelle plutôt que sur l'accumulation de preuves. Ces capacités ne sont pas affectées par ses limites. Elles en sont simplement distinctes.
+
+Une doctrine qui connaît ses bords est une doctrine qui sait où elle s'arrête. C'est aussi ce qui définit où elle commence.
